@@ -1,0 +1,4 @@
+﻿  calculadora.cpp
+C:\Users\HP\Desktop\calculadora\calculadora\calculadora.cpp(6,9): warning C4101: 'a': variable local sin referencia
+C:\Users\HP\Desktop\calculadora\calculadora\calculadora.cpp(7,9): warning C4101: 'b': variable local sin referencia
+  calculadora.vcxproj -> C:\Users\HP\Desktop\calculadora\Debug\calculadora.exe
